@@ -1,43 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-
-<script type="text/javascript">
- var typedSettings = new Typed(".typed-words", {
-        strings: [""],
-        typeSpeed: -50,
-        startDelay: 10000,
-        loop: false,
-        showCursor: true,
-        cursorChar: "|",
-        attr: null,
-      });
-      
-      function toggleElement(element) {
-      if (element.style) {
-        if (element.style.display === "none") {
-          element.style.display = "block";
-        } else {
-          element.style.display = "none";
-        }
-      }
-     }
-      
-  function showSocialData(data) {
-  const prefix = 'social-'
-  // for class
-  for (const elem of document.querySelectorAll('[id^="social-"]')){
-		toggleElement(elem);
-  };
-   		var guest = document.getElementById(prefix + data['guest'].replace(' ','-'));
-      console.log(guest)
-      var channel = document.getElementById(prefix + data['channel'].replace(' ','-'));
-            console.log(channel)
-      toggleElement(channel);
-      toggleElement(guest);
-  }
-  
-  function showTyped(data) {
-		 	
-  			const scripts = {
+var scripts = {
     'Kevin Garnett,Grayson Boucher': `<p style="text-align: center;"><strong>The Professor</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span style="color: #374151;"><strong>Segment 1: Introduction and Early Career</strong></span></p>
@@ -510,34 +471,3 @@
 <li><span style="color: #374151;"><strong>Is the league better now, or when you came into the league?</strong></span></li>
 </ul>`
 };
-const key = data['channel'] + "," + data["guest"]
-				console.log("key is + " + key);
-        const chosenScript = scripts[key];
-        console.log(chosenScript)
-        typedSettings.strings = [chosenScript]
-      	typedSettings.reset();
-      	typedSettings.start();
-  }
-  function convertFormToJSON(form) {
-    var array = $(form).serializeArray();
-    var json = {};
-    $.each(array, function () {
-      json[this.name] = this.value || "";
-    });
-    return json;
-  }
-
-  $('form[action="https://scriptForm"]').each(function (
-    i,
-    el
-  ) {
-    var form = $(el);
-    form.submit(function (e) {
-      e.preventDefault();
-      form = $(e.target);
-      var data = convertFormToJSON(form);
-      showSocialData(data);
-      showTyped(data);
-    });
-  });
-</script>
