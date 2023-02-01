@@ -1,4 +1,4 @@
-var scripts = {
+var Scripts = {
     'Kevin Garnett,Grayson Boucher': `<p style="text-align: center;"><strong>The Professor</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span style="color: #374151;"><strong>Segment 1: Introduction and Early Career</strong></span></p>
