@@ -33,6 +33,14 @@ var Scripts = {
 </ul>`,
     'Kevin Garnett,J.R. Rider': `<p style="text-align: center;"><strong>J.R. Rider - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
+<p><strong>Top 5:</strong></p>
+<ol>
+<li><span>You played against MJ and with Kobe, What does today's generation not understand about M.J.? What do they not understand about Kobe?</span></li>
+<li><span>What was the 1:1 with Kobe situation?</span></li>
+<li><span>What happened with Shaq offering you $10k to fight Kobe?&nbsp;&nbsp;</span></li>
+<li><span>What was your first impression of KG?</span></li>
+<li><span>What did you want to say to KG after M.J. went off that 4th quarter?</span></li>
+</ol>
 <p><span"><strong>Segment 1: Background and early life</strong></span></p>
 <ul>
 <li>&nbsp;Everyone knows you from the Eastbay funk dunk, and our story about&nbsp; M.J, but we want to hear more about the early you. What was it like growing up in Oakland?</li>
