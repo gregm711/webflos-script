@@ -514,7 +514,7 @@ var Scripts = {
 <li>How is the University of Kentucky faring as Big 10 champions?</li>
 </ul>
 `,
-  "Stadium Network,Inside College Hoops": `<p style="text-align: center;"><strong>Inside College Hoops</strong></p>
+  "Stadium Network,Inside College Hoops": `<p style="text-align: center;"><strong>Inside College Hoops & The Association</strong></p>
 <hr>
 <p><strong>Persona Description from Analytics:</strong></p>
 <hr>
