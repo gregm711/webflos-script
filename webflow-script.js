@@ -481,6 +481,14 @@ var Scripts = {
   "Stadium Network,Inside Baseball": `<p style="text-align: center;"><strong>Inside Baseball</strong></p>
 <p><strong>Persona Description from Analytics:</strong></p>
 <p>25-35 year olf male who is an avid fan of Inside Baseball, a show dedicated to MLB news and analysis. He enjoys diving deep into the sport, discussing team strategies, player performances, and behind-the-scenes stories. He also appreciates humor and wit in the presentation of the news, as well as engaging in conversations with other fans. When he&#39;s not watching Inside Baseball, he may follow other sports, attend live games, or participate in fantasy leagues.</p>
+<p style="text-align: center;"><strong>Top 5 Questions</strong></p>
+<ol>
+<li>How have the injuries impacted the New York Yankees' winning streak?</li>
+<li>What is the current state of the team's key players?</li>
+<li>How does the free-agent class, including Francisco Lindor, affect the team's prospects?</li>
+<li>How does the coaching staff plan to manage the injured players and their recovery?</li>
+<li>Are there any promising talents from the minor leagues who can fill in for the injured players?</li>
+</ol>
 <p><strong>Segment</strong>: Injuries and Chances: New York Yankees</p>
 <ul>
 <li>How have the injuries impacted the New York Yankees&#39; winning streak?</li>
@@ -511,6 +519,15 @@ var Scripts = {
 <p><strong>Persona Description from Analytics:</strong></p>
 <hr>
 <p>25-35 year olf male who is an avid fan of Inside College and NBA Basketball, a show dedicated to Basketball news and analysis. He enjoys diving deep into the sport, discussing team strategies, player performances, and behind-the-scenes stories. He also appreciates humor and wit in the presentation of the news, as well as engaging in conversations with other fans. When he&#39;s not watching Inside College Hoops, he may follow other sports, attend live games, or participate in fantasy leagues.</p>
+<p><strong>Top 5 Questions:</strong></p>
+<ol>
+<li>What led to the altercation between Nicola Jokic and Suns owner Matt Ishbia?</li>
+<li>What are the key variables in this matchup between the Knicks and the Heat?</li>
+<li>How has James Harden been performing in the playoffs, and what do you think of his recent game?</li>
+<li>Who are the finalists in the Detroit Pistons head coach search, and what can we expect from the new coach?</li>
+<li>How has Anthony Davis been performing in the Lakers vs Warriors series?</li>
+</ol>
+<hr>
 <p><strong>Segment</strong> 1: Nicola Jokic&#39;s Altercation with Suns Owner Matt Ishbia</p>
 <ul>
 <li>What led to the altercation between Nicola Jokic and Suns owner Matt Ishbia?</li>
