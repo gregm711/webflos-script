@@ -1,5 +1,5 @@
 var Scripts = {
-    'Kevin Garnett,Grayson Boucher': `<p style="text-align: center;"><strong>The Professor</strong></p>
+  "Kevin Garnett,Grayson Boucher": `<p style="text-align: center;"><strong>The Professor</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1: Introduction and Early Career</strong></span></p>
 <ul>
@@ -31,7 +31,7 @@ var Scripts = {
 <li><span>Who in the current NBA&rsquo;s game do you most admire?</span></li>
 <li><span>What&rsquo;s your favorite move that you created?</span></li>
 </ul>`,
-    'Kevin Garnett,J.R. Rider': `<p style="text-align: center;"><strong>J.R. Rider - Prompts</strong></p>
+  "Kevin Garnett,J.R. Rider": `<p style="text-align: center;"><strong>J.R. Rider - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><strong>Top 5:</strong></p>
 <ol>
@@ -87,7 +87,7 @@ var Scripts = {
 <li><span">What motivates you now?</span></li>
 <li><span">What do you want your legacy to be?</span></li>
 </ul>`,
-    'Kevin Garnett,Ja Morant': `<p style="text-align: center;"><strong>Ja Morant - Prompts</strong></p>
+  "Kevin Garnett,Ja Morant": `<p style="text-align: center;"><strong>Ja Morant - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from inside the green room with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><strong>Segment 1: Life Story&nbsp;</strong></p>
 <ol>
@@ -129,7 +129,7 @@ var Scripts = {
 <ol>
 <li><span>Make a 2023 prediction about the NBA.&nbsp;&nbsp;</span></li>
 </ol>`,
-    'Kevin Garnett,Nick Depaula': `<p style="text-align: center;"><strong>Nick DePaula</strong></p>
+  "Kevin Garnett,Nick Depaula": `<p style="text-align: center;"><strong>Nick DePaula</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1:</strong></span></p>
 <ul>
@@ -158,7 +158,7 @@ var Scripts = {
 <li><strong>What is the shoe that&rsquo;s the most underappreciated?</strong></li>
 <li><strong>Did shoe design (looks only) peak at any point or is it still improving?</strong></li>
 </ul>`,
-    'Kevin Garnett,Bones Hyland': `<p style="text-align: center;"><strong>Bones Hyland - Prompts</strong></p>
+  "Kevin Garnett,Bones Hyland": `<p style="text-align: center;"><strong>Bones Hyland - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><strong>Segment 1:</strong></p>
 <ul>
@@ -207,7 +207,7 @@ var Scripts = {
 <li>Recap the main points of the discussion and thank Bones for joining the podcast.</li>
 <li>Encourage listeners to check out Bones' youtube channel and follow his career in the NBA.</li>
 </ul>`,
-    'Kevin Garnett,Antoine Walker': `<p style="text-align: center;"><strong>Antoine walker</strong></p>
+  "Kevin Garnett,Antoine Walker": `<p style="text-align: center;"><strong>Antoine walker</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give KG space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1:</strong></span></p>
 <ul>
@@ -245,7 +245,7 @@ var Scripts = {
 <li><span><strong>Who is your favorite current player?</strong></span></li>
 <li><span><strong>Is the league better now, or when you came into the league?</strong></span></li>
 </ul>`,
-    'Danny Green,J.R. Rider': `<p style="text-align: center;"><strong>J.R. Rider - Prompts</strong></p>
+  "Danny Green,J.R. Rider": `<p style="text-align: center;"><strong>J.R. Rider - Prompts</strong></p>
 <p><strong>Goal</strong>: <span>Provide Segments that combine previous content with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</span></p>
 <p><span"><strong>Segment 1: Background and early life</strong></span></p>
 <ul>
@@ -288,7 +288,7 @@ var Scripts = {
 <li><span">What motivates you now?</span></li>
 <li><span">What do you want your legacy to be?</span></li>
 </ul>`,
-    'Danny Green,Grayson Boucher': `<p style="text-align: center;"><strong>The Professor</strong></p>
+  "Danny Green,Grayson Boucher": `<p style="text-align: center;"><strong>The Professor</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from KG Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1: Introduction and Early Career</strong></span></p>
 <ul>
@@ -320,7 +320,7 @@ var Scripts = {
 <li><span>Who in the current NBA&rsquo;s game do you most admire?</span></li>
 <li><span>What&rsquo;s your favorite move that you created?</span></li>
 </ul>`,
-    'Danny Green,Ja Morant': `<p style="text-align: center;"><strong>Ja Morant - Prompts</strong></p>
+  "Danny Green,Ja Morant": `<p style="text-align: center;"><strong>Ja Morant - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from inside the green room with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><strong>Segment 1: Life Story&nbsp;</strong></p>
 <ol>
@@ -363,7 +363,7 @@ var Scripts = {
 <ol>
 <li><span>Make a 2023 prediction about the NBA.&nbsp;&nbsp;</span></li>
 </ol>`,
-    'Danny Green,Nick Depaula': `<p style="text-align: center;"><strong>Nick DePaula</strong></p>
+  "Danny Green,Nick Depaula": `<p style="text-align: center;"><strong>Nick DePaula</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from Danny Certified with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1:</strong></span></p>
 <ul>
@@ -392,7 +392,7 @@ var Scripts = {
 <li><strong>What is the shoe that&rsquo;s the most underappreciated?</strong></li>
 <li><strong>Did shoe design (looks only) peak at any point or is it still improving?</strong></li>
 </ul>`,
-    'Danny Green,Bones Hyland': `<p style="text-align: center;"><strong>Bones Hyland - Prompts</strong></p>
+  "Danny Green,Bones Hyland": `<p style="text-align: center;"><strong>Bones Hyland - Prompts</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from Danny Green with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><strong>Segment 1:</strong></p>
 <ul>
@@ -441,7 +441,7 @@ var Scripts = {
 <li>Recap the main points of the discussion and thank Bones for joining the podcast.</li>
 <li>Encourage listeners to check out Bones' youtube channel and follow his career in the NBA.</li>
 </ul>`,
-    'Danny Green,Antoine Walker': `<p style="text-align: center;"><strong>Antoine walker</strong></p>
+  "Danny Green,Antoine Walker": `<p style="text-align: center;"><strong>Antoine walker</strong></p>
 <p><strong>Goal</strong>: Provide Segments that combine previous content from Danny Green with the largest reach &amp; engagement. These segments are specifically for being able to replay past episode content and give Danny space to create new takes that will be good for long-form content &amp; soundbites/clips.</p>
 <p><span><strong>Segment 1:</strong></span></p>
 <ul>
@@ -477,5 +477,69 @@ var Scripts = {
 <li><span><strong>Who was the best player you played against?</strong></span></li>
 <li><span><strong>Who is your favorite current player?</strong></span></li>
 <li><span><strong>Is the league better now, or when you came into the league?</strong></span></li>
-</ul>`
+</ul>`,
+  "Stadium Network,Inside Baseball": `<p style="text-align: center;"><strong>Inside Baseball</strong></p>
+<p><strong>Persona Description from Analytics:</strong></p>
+<p>25-35 year olf male who is an avid fan of Inside Baseball, a show dedicated to MLB news and analysis. He enjoys diving deep into the sport, discussing team strategies, player performances, and behind-the-scenes stories. He also appreciates humor and wit in the presentation of the news, as well as engaging in conversations with other fans. When he&#39;s not watching Inside Baseball, he may follow other sports, attend live games, or participate in fantasy leagues.</p>
+<p><strong>Segment</strong>: Injuries and Chances: New York Yankees</p>
+<ul>
+<li>How have the injuries impacted the New York Yankees&#39; winning streak?</li>
+<li>What is the current state of the team&#39;s key players?</li>
+<li>How does the free-agent class, including Francisco Lindor, affect the team&#39;s prospects?</li>
+<li>How does the coaching staff plan to manage the injured players and their recovery?</li>
+<li>Are there any promising talents from the minor leagues who can fill in for the injured players?</li>
+<li></li>
+</ul>
+<p><strong>Segment</strong>: Rebuilding the Phillies: Managerial Changes</p>
+<ul>
+<li>What have been the efforts to improve the Philadelphia Phillies&#39; fortunes?</li>
+<li>How do Davey Martel and Davey Martinez compare in their management styles and successes?</li>
+<li>What are the short-term and long-term goals for the Philadelphia Phillies under the new management?</li>
+<li>How have the players responded to the managerial changes?</li>
+</ul>
+<p><strong>Segment</strong>: Baseball Landscape and College Hoops: Rebuilding and Decisions</p>
+<ul>
+<li>What is the current state of National League teams undergoing rebuilding?</li>
+<li>How have the University of Kansas and the Maryland Terrapins fared in their decisions regarding their rebuilds?</li>
+<li>What are the Los Angeles Angels&#39; prospects after trading Shohei Ohtani?</li>
+<li>What kind of help do the Chicago White Sox need to improve their pitching?</li>
+<li>How is the University of Kentucky faring as Big 10 champions?</li>
+</ul>
+`,
+  "Stadium Network,Inside College Hoops": `<p style="text-align: center;"><strong>Inside College Hoops</strong></p>
+<hr>
+<p><strong>Persona Description from Analytics:</strong></p>
+<hr>
+<p>25-35 year olf male who is an avid fan of Inside College and NBA Basketball, a show dedicated to Basketball news and analysis. He enjoys diving deep into the sport, discussing team strategies, player performances, and behind-the-scenes stories. He also appreciates humor and wit in the presentation of the news, as well as engaging in conversations with other fans. When he&#39;s not watching Inside College Hoops, he may follow other sports, attend live games, or participate in fantasy leagues.</p>
+<p><strong>Segment</strong> 1: Nicola Jokic&#39;s Altercation with Suns Owner Matt Ishbia</p>
+<ul>
+<li>What led to the altercation between Nicola Jokic and Suns owner Matt Ishbia?</li>
+<li>How did the incident progress and what are the possible consequences for Jokic?</li>
+<li>Do you think Jokic will be suspended for his actions, and if so, how will it affect the series?</li>
+</ul>
+<p><strong>Segment</strong> 2: Knicks vs Heat Matchup</p>
+<ul>
+<li>What are the key variables in this matchup between the Knicks and the Heat?</li>
+<li>How have injuries affected the series so far, and how do you think they will impact tonight&#39;s game?</li>
+<li>What changes do the Knicks need to make in order to turn the series around?</li>
+</ul>
+<p><strong>Segment</strong> 3: NBA Playoffs - James Harden&#39;s Performance and Sixers vs Celtics Matchup</p>
+<ul>
+<li>How has James Harden been performing in the playoffs, and what do you think of his recent game?</li>
+<li>Can Harden maintain this level of play for the remainder of the series?</li>
+<li>What are your thoughts on the Sixers vs Celtics matchup and their coaching decisions?</li>
+</ul>
+<p><strong>Segment</strong> 4: Detroit Pistons Head Coach Search and All-Rookie Teams</p>
+<ul>
+<li>Who are the finalists in the Detroit Pistons head coach search, and what can we expect from the new coach?</li>
+<li>How will the new head coach impact the young talent on the Pistons roster?</li>
+<li>Which players made the 2022-23 NBA All-Rookie teams, and are there any surprises?</li>
+</ul>
+<p><strong>Segment</strong> 5: Lakers vs Warriors Series and Anthony Davis&#39; Performance</p>
+<ul>
+<li>How has Anthony Davis been performing in the Lakers vs Warriors series?</li>
+<li>Can Davis maintain this level of play for the remainder of the series?</li>
+<li>What are the key factors in the Lakers vs Warriors matchup, and how do you think it will play out?</li>
+</ul>
+`,
 };
